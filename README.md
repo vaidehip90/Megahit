@@ -9,6 +9,15 @@ conda install -c bioconda megahit
 
 # Built a Docker image
 Commands for builting Docker image in linux 
+
+First get the Docker installed on Ubuntu by following the commands
+
+sudo apt install docker.io
+sudo snap install docker
+docker --version
+
+For metagenomics megahit docker images ;
+
 mkdir metagenomic
 
 cd ~/metagenomic/
