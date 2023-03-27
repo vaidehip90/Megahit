@@ -12,11 +12,11 @@ Commands for builting Docker image in linux
 
 # First get the Docker installed on Ubuntu by following the commands
 
-sudo apt install docker.io
+> sudo apt install docker.io
 
-sudo snap install docker
+> sudo snap install docker
 
-docker --version
+> docker --version
 
 # For metagenomics megahit docker images ;
 
